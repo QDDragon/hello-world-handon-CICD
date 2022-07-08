@@ -6,7 +6,7 @@
     <br>
     <p>Hello it is no meaning edit, the purpose is just for testing</p>
     <br>
-    <label for="Name"><b>Enter your Name here please</b></label>
+    <label for="Name"><b>your Name here please</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
