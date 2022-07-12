@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learningtesting</h1>
-    <p> My name is Tom, an dengerous guy.</p>
+    <p> let pretent this sentence is very funny</p>
     <hr>
     <br>
     <p>Hello it is no meaning edit, the purpose is just for testing</p>
